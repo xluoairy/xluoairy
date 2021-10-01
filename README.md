@@ -2,6 +2,8 @@
 
 I'm a senior software developer at Workday
 
+<a href="https://www.linkedin.com/in/xian-luo-murray-6135a616/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <!--
 **xluoairy/xluoairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
